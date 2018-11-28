@@ -1,4 +1,4 @@
 # OMDBClient
 
-# Install pods before running in xcode 
+### Install pods before running in xcode 
 pod install 
